@@ -1,0 +1,26 @@
+{"khung hình": {
+
+    "frame00":
+    {
+        "frame": {"x":1946,"y":2,"w":80,"h":306}, "rotated": false
+        ,
+        "trimmed": false,
+        "spriteSourceSize" : {"x":0,"y":0,"w":80,"h":306}, "sourceSize": {
+        "w":80,"h":306}
+    },
+    "frame01":
+    {
+        "frame": {"x":1636,"y":178,"w":284,"h":42}, "rotated": false
+        ,
+        "trimmed": false,
+        "spriteSourceSize": {"x ":0,"y":0,"w":284,"h":42},
+        "sourceSize":{"w":284,"h":42}
+    },
+    "meta": {
+        "app": "http://www.codeandweb.com/texturepacker",
+        "version": "1.0",
+        "image": "atlas.png",
+        "định dạng": "RGBA8888",
+        "size": {"w":2048,"h":512},
+        "scale": "1"
+    }}

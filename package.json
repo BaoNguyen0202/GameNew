@@ -24,7 +24,9 @@
         "webpack-dev-server": "^4.11.1"
     },
     "dependencies": {
+        "@pixi/utils": "^7.2.4",
         "clean-webpack-plugin": "^4.0.0",
-        "esbuild-loader": "^2.20.0"
+        "esbuild-loader": "^2.20.0",
+        "pixi.js": "^7.2.4"
     }
 }
